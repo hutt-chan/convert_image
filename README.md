@@ -1,4 +1,4 @@
-# 🖼️ Convert Image - Ứng Dụng Chuyển Đổi Định Dạng Hình Ảnh
+# 🖼️ Convert Image - Ứng Dụng Chuyển Đổi Ảnh Thành Tranh Vẽ
 
 Ứng dụng này cung cấp một giao diện người dùng đơn giản (GUI) được xây dựng bằng **Python Tkinter** để giúp người dùng dễ dàng chuyển đổi các tệp hình ảnh từ định dạng này sang định dạng khác.
 
@@ -6,13 +6,11 @@
 
 * Giao diện thân thiện, dễ sử dụng.
 * Hỗ trợ chuyển đổi nhiều định dạng hình ảnh phổ biến (ví dụ: PNG, JPG, BMP, WEBP, v.v.).
-* Xử lý hình ảnh hàng loạt (Batch Processing) (nếu có).
-* Tùy chọn chất lượng đầu ra (ví dụ: đối với JPEG).
 
 ## ⚙️ Yêu Cầu Hệ Thống
 
 * Python 3.x
-* Các thư viện được liệt kê trong `requirements.txt` (thường bao gồm Pillow/PIL cho xử lý ảnh).
+* Các thư viện được liệt kê trong `requirements.txt`.
 
 ## 🚀 Cài Đặt và Chạy Ứng Dụng
 
